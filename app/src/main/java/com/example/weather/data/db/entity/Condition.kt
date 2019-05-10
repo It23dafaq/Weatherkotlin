@@ -1,4 +1,4 @@
-package com.example.weather.data.db
+package com.example.weather.data.db.entity
 
 
 data class Condition(
